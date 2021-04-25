@@ -1,4 +1,4 @@
-#🎧 Podcastr
+# 🎧 Podcastr
 - Demo:[https://podcastr-topaz.vercel.app/](https://podcastr-topaz.vercel.app/)
 
 Podcastr é uma aplicação web de podcasts mais especificamente focada no FalaDev da [Rocketseat](https://rocketseat.com.br/).
